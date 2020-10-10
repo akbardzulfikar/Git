@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Git</string>
+    <string name="search">Type here to search user</string>
+    <string name="name">name</string>
+    <string name="html">github</string>
+    <string name="username">username</string>
+    <string name="bio">bio</string>
+    <string name="email">email</string>
+    <string name="blog">blog</string>
+    <string name="follows">Followers. Following</string>
+    <string name="search_user">Search User</string>
+    <string name="github_users">Github Users</string>
+    <string name="auth">Made by Laksamana Akbar Dzulfikar</string>
+</resources>
